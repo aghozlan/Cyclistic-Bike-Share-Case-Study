@@ -11,7 +11,7 @@ How do usage patterns differ between casual riders and annual members? By analyz
 Data Description
 The dataset used in this analysis includes ride information for Cyclistic’s bike-share system, containing:
 
-Ride IDs, ride start and end times, rideable types (electric or classic bikes), start and end station names, user types (casual or member), and calculated metrics such as ride length and hour of day.
+Ride IDs, ride start and end times, rideable types (electric or classic bikes), start and end station names, user types (casual or member), and calculated metrics such as ride length and hour of day. The data considered the merging of the last 12 data frames each represents the daily recordings of one of the most recent 12 months.
 The data was preprocessed to handle missing values, filter out anomalies, and create additional features for detailed analysis.
 
 Key Findings
